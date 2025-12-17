@@ -10,7 +10,7 @@
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
 <a <a href="https://instagram.com/siberalican27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siberalican27" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/siberalican27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siberalican27" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@siberalican27/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siberalican27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
